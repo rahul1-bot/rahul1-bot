@@ -1,6 +1,6 @@
 ![Header Image](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png) 
 
-# 💻 Computer Vision Specialist - PyTorch 🔥 | 🛠️ Crafting Scalable Software | 🌐 Pioneering Robust Distributed Systems
+## 💻 Computer Vision Specialist - PyTorch 🔥 | 🛠️ Crafting Scalable Software | 🌐 Pioneering Robust Distributed Systems
 
 Hey there, I'm **Rahul Sawhney**! Currently navigating the vast universe of Computer Science as an undergraduate. With a penchant for solving complex problems, I tread the path of coding and visual computing.
 
