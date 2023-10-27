@@ -56,6 +56,10 @@ Hey there, I'm **Rahul Sawhney**! Currently navigating the vast universe of Comp
   **Date**: 4 April, 2023  
   **Publication**: IEEE Xplore
 
+- **Title**: [An Extensive Study for Detection of Chronic Renal Disease by Utilizing Deep Learning Algorithm on Medical Images](https://www.researchgate.net/publication/374468813_An_Extensive_Study_for_Detection_of_Chronic_Renal_Disease_by_Utilizing_Deep_Learning_Algorithm_on_Medical_Images)  
+  **Date**: 10 June, 2023  
+  **Publication**: IEEE Xplore
+
 - **Title**: [An Efficient Supervised Deep Learning Approach for Covid chest Image classification from Deep Residual Networks](https://ieeexplore.ieee.org/document/9633472)  
   **Date**: 10 December 2021  
   **Publication**: IEEE Xplore
